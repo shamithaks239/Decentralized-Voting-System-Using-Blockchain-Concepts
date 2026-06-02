@@ -9,11 +9,11 @@ class Blockchain:
         self.chain = []
 
         self.registered_voters = [
-            "VOTER101",
-            "VOTER102",
-            "VOTER103",
-            "VOTER104",
-            "VOTER105"
+            "VOTER404",
+            "VOTER505",
+            "VOTER606",
+            "VOTER707",
+            "VOTER808"
         ]
 
         self.candidates = [
